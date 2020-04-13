@@ -10,6 +10,5 @@ Sample website with plenty of files for demos
 This is a sample project for learning the concepts of Git
 
 this is second line for testing
-
-## testing
-this is a testing area
+## Testing
+This is a text related to Testing
